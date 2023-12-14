@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace MohsenTools.Extensions
 {
-    public static  class NumberExt { 
+    public static  class NumberExt
+    { 
   
     }
 }
