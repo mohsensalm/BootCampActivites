@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MohsenTools", "Common\Mohse
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CsvReader", "CsvReader\CsvReader.csproj", "{76E6C6BB-8F0F-4513-A6B2-B80DF49F47B1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestInClass", "TestInClass\TestInClass.csproj", "{59CD19F8-D1D8-41DF-93B7-ADEB9941A11D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,6 +31,10 @@ Global
 		{76E6C6BB-8F0F-4513-A6B2-B80DF49F47B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{76E6C6BB-8F0F-4513-A6B2-B80DF49F47B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{76E6C6BB-8F0F-4513-A6B2-B80DF49F47B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59CD19F8-D1D8-41DF-93B7-ADEB9941A11D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59CD19F8-D1D8-41DF-93B7-ADEB9941A11D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59CD19F8-D1D8-41DF-93B7-ADEB9941A11D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59CD19F8-D1D8-41DF-93B7-ADEB9941A11D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
